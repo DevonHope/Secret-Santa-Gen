@@ -10,9 +10,6 @@ import java.util.*;
 //ven cant have ari vv
 class SSGenerator{
 	
-	public static final String ACCOUNT_SID = "AC93a4aa97e99c13bebb7c8dbb044fcc59";
-	public static final String AUTH_TOKEN = "f1e9d2dddb7e294f2d373a4e0121afed";
-	
 	public static<T> void shuffle(List<T> list){
 		
 		Random random = new Random();
